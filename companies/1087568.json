@@ -1,0 +1,25 @@
+{
+ "jobId": "1087568",
+ "jobTitle": "Security Engineer- Cloud Infrastructure",
+ "jobCompany": null,
+ "companyWebsite": "bird.co",
+ "companyName": "Bird",
+ "jobLocations": [
+  "Santa Monica, CA, US"
+ ],
+ "companyId": 18952,
+ "jobModifiedDate": "2019-07-08 07:25:45",
+ "jobDescription": "Bird is a last-mile electric vehicle sharing company dedicated to bringing safe, low-cost, environmentally-friendly transportation solutions to communities across the world. We provide a fleet of electric, shared scooters that can be accessed via smartphone. Bird is headquartered in Venice, California and is rapidly expanding across the country and the world. Responsibilities: Work with engineering teams to design and build secure systems and networks Ensure security best practices are applied throughout our platform Develop and implement capabilities to detect intrusions and anomalies Work with developers to ensure that all critical systems and workflows have effective and appropriate security anomaly detection and response Conduct infrastructure security reviews and scans to identify security vulnerabilities before we launch new features Design and implement automated security tests that can help identify issues Investigate and handle security alerts, anomaly reports, and security incidents Configure and maintain systems to detect and prevent network intrusions and scan for vulnerabilities Work with huge amounts of data to detect and prevent attacks Qualifications: BS degree in Computer Science or related STEM field5+ years experience in relevant role Deep understanding of cloud infrastructure security vulnerabilities and attack vectors Deep understanding of AWS networking, VPC’s, routing tables, S3, EC2 Experienced with building tooling to collect and analyze data for security anomalies (eg. VPC Flow Logs, Cloud Trail, etc) Experienced with at least one scripting language, ideally Python or Bash Strong understanding of security architecture and security design Experience with WAF systems Big data experience a plus Technology we're working with: AWS, Terraform IAMOssec, Nessus Kotlin, Swift, C++, C, Go Dropwizard Postgresql Flink, Kafka, Redshift, Rabbit MQBird Rides Inc. is an equal employment opportunity employer, and we welcome everyone regardless of their race, color, religion, sex, national origin, age, disability, veteran status or genetics. We are dedicated to providing an inclusive, open, and diverse work environment.",
+ "jobRequirement": "",
+ "jobIsHighlighted": null,
+ "jobCategoryId": [],
+ "jobIndustryId": [],
+ "duration": null,
+ "jobExternalAppUrl": "https://www.ventureloop.com/ventureloop/api/rapi.php?jobId=NDUwfDEwODc1Njg=",
+ "jobIndustries": [
+  "2706,Technology",
+  "589,Travel &amp; Leisure",
+  "2739,Technology"
+ ],
+ "jobStage": []
+}

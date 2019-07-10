@@ -1,0 +1,24 @@
+{
+ "jobId": "1209598",
+ "jobTitle": "Data Scientist",
+ "jobCompany": null,
+ "companyWebsite": "www.adyen.com",
+ "companyName": "Adyen",
+ "jobLocations": [
+  "Amsterdam, NL"
+ ],
+ "companyId": 5078,
+ "jobModifiedDate": "2019-07-08 20:00:11",
+ "jobDescription": "This is Adyen Speed is the foundation of our company. We think fast. We work fast. We launch fast. We put our merchants at the center of everything we do, and we never stop until the job is done. We’re creating our own path, with a global team driving sustainable growth. We don’t do hierarchy, egos or boundaries. “ Not possible” is not in our vocabulary — “freedom” is. This is who we are: honest, direct and always bringing an element of fun into our work. If you’re ready to join the power of fast, keep reading. What you’ll do: Analyze, research and build machine learning algorithms on our terabytes of data, creating products that have never been seen in the payment industry. Some examples could be: Optimization algorithms for payment routing to improve payment success rates Fraud detection systems to stop the bad guys... Anti- Money Laundering ( AML) systems Real-time anomaly detection based on time-series modeling Ad-hoc analysis of specific customer requests using Looker, SQL, Python, Py Spark, Elastic Search, Graphana and present the results to stakeholders in dashboards, graphs, presentations. Help develop ETL pipelines in Python for creating new datasets and speeding up the work of the other data scientists. Consult companies that work with Adyen (in the office and abroad) to help them solve problems, make the best use of our platform, and find new features to build to help them in the future. Who you are: Note that depending on experience, the criteria for the following skills will differ, but they’re what we’re looking for in general. Experience programming and doing data analysis and data science using Python Experience querying data from databases using SQLExperience working with BI tools ( Looker / Tableau / Qlikview / etc.) Experience working with big data technologies – Spark / Hadoop Experience working with ETL orchestration tools ( Airflow) Basic Java experience is a plus, as the main Adyen platform is built in Java and being able to bridge the gap between data science and the payment platform will be a big advantage for you. Good knowledge of machine learning techniques, tool sets and algorithms. This means that you know what happens “under the hood” A strong mathematical background Who we are: Adyen is the payments platform of choice for many of the world’s leading companies, providing a modern end-to-end infrastructure connecting directly to Visa, Mastercard, and consumers' globally preferred payment methods. Adyen delivers frictionless payments across online, mobile, and in-store channels. With offices across the world, Adyen serves customers including Facebook, Uber, Spotify, Casper, Bonobos and L' Oreal.",
+ "jobRequirement": "",
+ "jobIsHighlighted": null,
+ "jobCategoryId": [],
+ "jobIndustryId": [],
+ "duration": null,
+ "jobExternalAppUrl": "https://www.ventureloop.com/ventureloop/api/rapi.php?jobId=NDkwfDEyMDk1OTg=",
+ "jobIndustries": [
+  "587,Fintech",
+  "1422,Financial Services"
+ ],
+ "jobStage": []
+}

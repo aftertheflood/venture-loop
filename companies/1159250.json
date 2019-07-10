@@ -1,0 +1,24 @@
+{
+ "jobId": "1159250",
+ "jobTitle": "Senior QA Engineer",
+ "jobCompany": null,
+ "companyWebsite": "www.productboard.com",
+ "companyName": "ProductBoard",
+ "jobLocations": [
+  "Prague, CZ"
+ ],
+ "companyId": 19551,
+ "jobModifiedDate": "2019-07-10 02:15:04",
+ "jobDescription": "We are looking for a Senior QA Engineer to join our team in Prague. You will be working closely with the Engineering and Product teams and developing our test infrastructure to ensure the quality of productboard. You will be responsible for designing and implementing testing tools and frameworks, setup and optimize test infrastructure, optimize processes and coach junior team members and developers about testing. Who we are looking for Engineers that prefer an agile environment of a fast-growing startup over a rigid corporation, like to have ownership and do things on their own terms and take pride in their work and that possess the following competencies: You’re a senior engineer with several years of experience You have experience implementing testing tools You have experience with web application testing You have experience with performance testing You have knowledge of Java Script and/or Python You have experience setting up and tuning CI/ CD pipelines You have heard of or have used cypress.io before You could win a debate on manual vs. automated tests conducted entirely in English",
+ "jobRequirement": "",
+ "jobIsHighlighted": null,
+ "jobCategoryId": [],
+ "jobIndustryId": [],
+ "duration": null,
+ "jobExternalAppUrl": "https://www.ventureloop.com/ventureloop/api/rapi.php?jobId=NDkwfDExNTkyNTA=",
+ "jobIndustries": [
+  "545,Software",
+  "89,IT Enterprise"
+ ],
+ "jobStage": []
+}

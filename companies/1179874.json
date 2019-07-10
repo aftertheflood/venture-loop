@@ -1,0 +1,26 @@
+{
+ "jobId": "1179874",
+ "jobTitle": "Senior Data Engineer",
+ "jobCompany": null,
+ "companyWebsite": "corp.roblox.com",
+ "companyName": "Roblox",
+ "jobLocations": [
+  "San Mateo, CA, US"
+ ],
+ "companyId": 2105,
+ "jobModifiedDate": "2019-07-10 05:35:50",
+ "jobDescription": "WHY ROBLOX? Roblox is ushering in the next generation of entertainment, allowing people to imagine, create, and play together in immersive, user-generated worlds. We’re the one and only fastest-growing entertainment platform that lets anyone teach themselves how to code, publish, and monetize any experience imaginable—across any device—reaching millions of players across the globe. The impact that you can have at Roblox is powerful. We’re looking for someone who’s eager to take on a meaningful role in the success of Roblox on a massive scale. Someone who takes play seriously, but also isn’t afraid to have some fun either. Someone who’s ready to take Roblox—and their career—to the next level. In 2018, we were honored to be recognized as a Certified Great Place to Work®. We’ve fostered a company culture that empowers people to do the most defining work of their career in an environment that’s made up of the most passionate, team-oriented, visionary, crazy-smart people you’ll ever meet. Join the Roblox team where play rules and the possibilities are endless. Work with the most passionate, team-oriented, visionary, crazy-smart people you’ll ever meet.  As a Data Engineer, you will be a key participant in helping our Data team shape the future of Roblox. You will have primary responsibility in building the massive horizontally scaled streaming analysis pipelines that feed not only our Data Lake, Data Warehouse but also business critical applications.  You Are: Passionate about development: We are Java, Go developers and are looking for applicants who have demonstrable expertise in using these languages at scale. You have at least 2+ years in Object-oriented programming languages, creating SQL statements, schema design and dimensional data modeling. Focused on analyzing data to identify deliverables, gaps and inconsistencies, managing and communicating data warehouse plans to internal clients Experienced with 2+ years in the data warehouse space, in custom ETL design, implementation and maintenance. You Will: Work with our software stack which is comprised of: Kafka , Spark or Flink- the engines upon which we are building our next generation streaming pipelines for Roblox scale. Design, build and launch new data models in production. Design, build and launch new data extraction, transformation and loading processes in production. Work with data infrastructure to triage infra issues and drive to resolution. Define and manage SLA for all data sets in allocated areas of ownership. Support existing processes running in production: The Data Infrastructure Team and the Analytics Team are combined at Roblox to ensure that data processing and analytics are driven primarily by the user needs. Design Structures: For compact encoding of data for in-memory storage to enable in-stream computation-message fidelity from source to target: preserving message ordering guarantees across all nodes in the cluster. Nice to have: Hive, Spark, Presto, Kafka, Samza, Storm or Flink Python or Java, AWS and Airflow BS/ BA in Technical Field, Computer Science or Mathematics You'll Love: Excellent medical, dental, and vision coverage A rewarding 401k program Flexible vacation policy Free catered lunches five times a week and several fully stocked kitchens with unlimited snacks Onsite fitness center and fitness program credit Annual Cal Train Go Pass A super-cool Roblox Admin badge for your avatar Rock star status with our community",
+ "jobRequirement": "",
+ "jobIsHighlighted": null,
+ "jobCategoryId": [],
+ "jobIndustryId": [],
+ "duration": null,
+ "jobExternalAppUrl": "https://www.ventureloop.com/ventureloop/api/rapi.php?jobId=NDkwfDExNzk4NzQ=",
+ "jobIndustries": [
+  "2497,Entertainment",
+  "209,Ad Tech",
+  "230,Digital Media",
+  "409,Consumer Internet &amp; Media"
+ ],
+ "jobStage": []
+}

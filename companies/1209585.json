@@ -1,0 +1,24 @@
+{
+ "jobId": "1209585",
+ "jobTitle": "Network Engineer",
+ "jobCompany": null,
+ "companyWebsite": "www.adyen.com",
+ "companyName": "Adyen",
+ "jobLocations": [
+  "Amsterdam, NL"
+ ],
+ "companyId": 5078,
+ "jobModifiedDate": "2019-07-08 19:52:15",
+ "jobDescription": "This is Adyen Speed is the foundation of our company. We think fast. We work fast. We launch fast. Our merchants’ demands shape our development path, and we never stop until the job is done. We’re creating our own path, with a global team driving sustainable growth. We don’t do hierarchy, egos or boundaries. “ Not possible” is not in our vocabulary — “freedom” is. This is who we are: honest, direct and always bringing an element of fun into our work. If you’re ready to join the power of fast, keep reading. The role Adyen is looking for full-time Network Engineers for its Infrastructure team in Amsterdam. The ideal candidate should have broad systems experience with a Linux background, learn on the fly, diagnose problems and be used to dealing with a 24/7 environment. Your advanced system and network skills will be utilized on various projects and for keeping our in-house developed payments platform in top shape. What you’ll do Build out our global network, both datacenter interconnects and internet infrastructure You will help monitor network performance and analyse network irregularities to ensure system availability and reliability. Install and configure network devices and services such as routers, switches, firewalls, load balancers. Who you are Technology: You must be proficient and have real world and hands-on experience with the following technologies: the Linux network stack, monitoring, firewalls, network security protocols, and more. Experience: Designing and implementing network configurations, network monitoring, troubleshooting performance issues, configuring security systems such as firewalls in a Linux-based production environment. Knowledge: Solid understanding of load balancing, high-availability network infrastructure, routing protocols such as BGP and OSPF, UNIX-related network services, TCP/ IP networking, DNS and HTTP(s), network security. Knowledge of protocols such as MPLS and EVPN is a plus. Mentality: You are a team-player who is open to feedback. Able to work in a 24/7 environment, make quick informed decisions, and handle pressure. Language: You are able to communicate in English. Who we are Adyen is the payments platform of choice for many of the world’s leading companies, providing a modern end-to-end infrastructure connecting directly to Visa, Mastercard, and consumers' globally preferred payment methods. Adyen delivers frictionless payments across online, mobile, and in-store channels. With offices across the world, Adyen serves customers including Facebook, Uber, Spotify, Casper, Bonobos and L' Oreal.",
+ "jobRequirement": "",
+ "jobIsHighlighted": null,
+ "jobCategoryId": [],
+ "jobIndustryId": [],
+ "duration": null,
+ "jobExternalAppUrl": "https://www.ventureloop.com/ventureloop/api/rapi.php?jobId=NDkwfDEyMDk1ODU=",
+ "jobIndustries": [
+  "587,Fintech",
+  "1422,Financial Services"
+ ],
+ "jobStage": []
+}

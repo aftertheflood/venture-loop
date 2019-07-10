@@ -1,0 +1,26 @@
+{
+ "jobId": "1144270",
+ "jobTitle": "Senior Software Engineer - Cloud Platform",
+ "jobCompany": null,
+ "companyWebsite": "corp.roblox.com",
+ "companyName": "Roblox",
+ "jobLocations": [
+  "San Mateo, CA, US"
+ ],
+ "companyId": 2105,
+ "jobModifiedDate": "2019-07-10 05:37:22",
+ "jobDescription": "Roblox is ushering in the next generation of entertainment, allowing people to imagine, create, and play together in immersive, user-generated worlds. We’re the one and only fastest-growing entertainment platform that lets anyone teach themselves how to code, publish, and monetize any experience imaginable—across any device—reaching millions of players across the globe. The impact that you can have at Roblox is powerful. We’re looking for someone who’s eager to take on a meaningful role in the success of Roblox on a massive scale. Someone who takes play seriously, but also isn’t afraid to have some fun either. Someone who’s ready to take Roblox—and their career—to the next level. In 2018, we were honored to be recognized as a Certified Great Place to Work®. We’ve fostered a company culture that empowers people to do the most defining work of their career in an environment that’s made up of the most passionate, team-oriented, visionary, crazy-smart people you’ll ever meet. Join the Roblox team where play rules and the possibilities are endless. Work with the most passionate, team-oriented, visionary, crazy-smart people you’ll ever meet.  The engineers at Roblox are working on the hardest problems in tech today -- distributed systems, real time communication, 3 D co-experience, massive data processing, social networking, rendering, physics, and more.  As a Roblox engineer, you will have real ownership and impact across one or more of these domains. Roblox is all in on going global, and as a member of the Platform Framework Team, you have the unique chance to help build the core technologies that will be the foundation of the next generation of a public ' Infrastructure-as-a-service' platform called Roblox Cloud Services. This is much more than just a typical engineering position. This is an opportunity for you to challenge your engineering talents by building something new and important, sharing expertise, adopting innovations contributed by other engineering teams, and defining standards and evangelizing them across internal teams and the broader Roblox developer community. You will be joining a formidable team that owns multiple widely used core technologies, including our microservices framework, code generation, code analysis tools and more. You have: Shipped production code in multiple programming languages ( Java, C#, Python, Java Script, ...) Used CI/ CD tools to ship products Understand differences and values between unit testing, component testing, integration testing Shipped code that processes tens of thousands of requests per second Deployed products as containers ( Docker) and used docker-compose tool Deployed products in some cloud orchestration tool (kubernetes, nomad, ...) Built your personal tools that help you automate things in your life or work Able to discuss trade-offs between micro-services and monoliths Produced documentation, tutorials or examples that were consumed by engineers You Will: Build and optimized tool-chain that other developers use to ship code Research and implement new technologies Work across the organization to meet the complex developer needs Create world-class training content on best practices in software production You'll Love: Excellent medical, dental, and vision coverage A rewarding 401k program Flexible vacation policy Free catered lunches five times a week and several fully stocked kitchens with unlimited snacks Onsite fitness center and fitness program credit Annual Cal Train Go Pass A Roblox Admin badge for your avatar",
+ "jobRequirement": "",
+ "jobIsHighlighted": null,
+ "jobCategoryId": [],
+ "jobIndustryId": [],
+ "duration": null,
+ "jobExternalAppUrl": "https://www.ventureloop.com/ventureloop/api/rapi.php?jobId=NDkwfDExNDQyNzA=",
+ "jobIndustries": [
+  "2497,Entertainment",
+  "209,Ad Tech",
+  "230,Digital Media",
+  "409,Consumer Internet &amp; Media"
+ ],
+ "jobStage": []
+}

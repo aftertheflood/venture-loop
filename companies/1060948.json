@@ -1,0 +1,26 @@
+{
+ "jobId": "1060948",
+ "jobTitle": "Software Engineer in Test",
+ "jobCompany": null,
+ "companyWebsite": "www.justworks.com",
+ "companyName": "Justworks",
+ "jobLocations": [
+  "New York City, NY, US"
+ ],
+ "companyId": 8059,
+ "jobModifiedDate": "2019-07-10 03:54:40",
+ "jobDescription": "Who we are At Justworks, you’ll enjoy a welcoming and casual environment, great benefits, diversity + inclusion and wellness program offerings, company retreats, and the ability to interact with and learn from leaders in the startup community. We work hard and care about our most prized asset - our people. We’re helping businesses get off the ground by enabling them to focus on running their business. We solve HR issues. We’re data driven and never stop iterating. If you’d like to work in a supportive, entrepreneurial environment, are interested in building something meaningful and having fun while doing it, we’d love to hear from you. The job Justworks is seeking a Software Engineer in Test ( SET) to join our team. As a successful candidate, you have demonstrated the ability to build, deploy, and maintain complex web applications. You have worked within a service-oriented architecture and know how to separate data and functionality as necessary. You have a strong interest in software and systems testing. We work primarily in Ruby on Rails and Java Script, but prior knowledge is not a requirement. You should have a deep understanding that goes beyond the ability to use these tools. What you'll do Own our load testing and performance testing strategies Research and provide other engineers with tools for testing Partner with other engineers to increase test coverage Advocate for best practices in testing Write tests when necessary Who you are Minimum of 3 years of professional full-stack engineering experience Minimum of 1 year of test development and/or automation experience Experience working with complicated systems at scale Experience with performance testing Experience in writing tests Infrastructure and Dev Ops experience a plus Technologies We Use- Ruby on Rails, Javascript/ React, Redux, My SQL, AWS, Git- Elastic Search, Docker, Influx DB, Redshift, Jenkins, Nagios Diversity at Justworks Justworks’ vision is for all identities, backgrounds and expressions to be represented in the workplace. We're building the foundation for long-term success and intend to cultivate a safe, collaborative and inclusive space and company culture. We’re proud to be an equal opportunity employer open to all qualified applicants regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, Veteran status, or any other legally protected status.",
+ "jobRequirement": "",
+ "jobIsHighlighted": null,
+ "jobCategoryId": [],
+ "jobIndustryId": [],
+ "duration": null,
+ "jobExternalAppUrl": "https://www.ventureloop.com/ventureloop/api/rapi.php?jobId=NDkwfDEwNjA5NDg=",
+ "jobIndustries": [
+  "2458,Business Services",
+  "184,Consumer Services &amp; Ecommerce",
+  "2672,Software",
+  "517,SaaS/Data Services"
+ ],
+ "jobStage": []
+}

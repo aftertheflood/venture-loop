@@ -1,0 +1,25 @@
+{
+ "jobId": "1087565",
+ "jobTitle": "Security Engineer - Application Security",
+ "jobCompany": null,
+ "companyWebsite": "bird.co",
+ "companyName": "Bird",
+ "jobLocations": [
+  "Santa Monica, CA, US"
+ ],
+ "companyId": 18952,
+ "jobModifiedDate": "2019-07-08 07:25:48",
+ "jobDescription": "Bird is a last-mile electric vehicle sharing company dedicated to bringing safe, low-cost, environmentally-friendly transportation solutions to communities across the world. We provide a fleet of electric, shared scooters that can be accessed via smartphone. Bird is headquartered in Venice, California and is rapidly expanding across the country and the world. Responsibilities: Work directly with engineering teams throughout all development phases to help design and build secure software Conduct static and dynamic code analysis to hunt for security vulnerabilities in new features before they are launched Develop and improve tooling to automate and scale code scanning capabilities to identify security issues as early in development as possible Work with cross-discipline teams to remediate security issues Qualifications: BS degree in Computer Science or related STEM field5+ years experience in relevant role Expertise in one or more object-oriented design methodology and large-scale application development (e.g. Kotlin, Ruby, Python, Go, Java, C++) Excellent understanding of critical application security risks and best practices for remediation Excellent understanding of computer science fundamentals, data structures, and algorithms Excellent understanding of mobile app development and build automation systems Excellent communication skills with both technical and non-technical audiences Experience with tools such as Burp Suite and OWASP ZAPExperience as software developer is a plus Technology we're working with: AWS, Terraform IAMOssec, Nessus Kotlin, Swift, C++, C, Go Dropwizard Postgresql Flink, Kafka, Redshift, Rabbit MQBird Rides Inc. is an equal employment opportunity employer, and we welcome everyone regardless of their race, color, religion, sex, national origin, age, disability, veteran status or genetics. We are dedicated to providing an inclusive, open, and diverse work environment.",
+ "jobRequirement": "",
+ "jobIsHighlighted": null,
+ "jobCategoryId": [],
+ "jobIndustryId": [],
+ "duration": null,
+ "jobExternalAppUrl": "https://www.ventureloop.com/ventureloop/api/rapi.php?jobId=NDUwfDEwODc1NjU=",
+ "jobIndustries": [
+  "2706,Technology",
+  "589,Travel &amp; Leisure",
+  "2739,Technology"
+ ],
+ "jobStage": []
+}

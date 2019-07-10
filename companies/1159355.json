@@ -1,0 +1,26 @@
+{
+ "jobId": "1159355",
+ "jobTitle": "Software Engineer - Automation &amp; Tools",
+ "jobCompany": null,
+ "companyWebsite": "corp.roblox.com",
+ "companyName": "Roblox",
+ "jobLocations": [
+  "San Mateo, CA, US"
+ ],
+ "companyId": 2105,
+ "jobModifiedDate": "2019-07-10 05:37:47",
+ "jobDescription": "Roblox is ushering in the next generation of entertainment, allowing people to imagine, create, and play together in immersive, user-generated worlds. We’re the one and only fastest-growing entertainment platform that lets anyone teach themselves how to code, publish, and monetize any experience imaginable—across any device—reaching millions of players across the globe.  The impact that you can have at Roblox is powerful. We’re looking for someone who’s eager to take on a meaningful role in the success of Roblox on a massive scale. Someone who takes play seriously, but also isn’t afraid to have some fun either. Someone who’s ready to take Roblox—and their career—to the next level. In 2018, we were honored to be recognized as a Certified Great Place to Work®. We’ve fostered a company culture that empowers people to do the most defining work of their career in an environment that’s made up of the most passionate, team-oriented, visionary, crazy-smart people you’ll ever meet. Join the Roblox team where play rules and the possibilities are endless. Work with the most passionate, team-oriented, visionary, crazy-smart people you’ll ever meet. The engineers at Roblox are working on the hardest problems in tech today -- distributed systems, real-time communication, 3 D co-experience, massive data processing, social networking, rendering, physics, and more. As a Roblox engineer, you will have real ownership and impact across one or more of these domains. As a Software Engineer – Automation and Tools, you will be building a bulletproof testing system that demands perfection for the millions of players who enjoy Roblox every day. You will be responsible for validating the quality of the app against multiple platforms deploying on a rapid development cycle. The build will be shipped with confidence against regression and bugs thanks to a world-class testing suite that you built. If you are a testing guru with solid programming skills and are obsessed with creating robust and invincible app reliability you will be right at home within our highly-skilled and rapidly growing Developer Tools team.  You Are: A testing veteran: you have 3+ years of professional experience in automation testing An excellent programmer: You have a strong background in at least one of the following programming languages: C++, Objective- C, Java, Lua, or Python A system builder: you have experience building a test automation system from scratch, experience with Selenium is a plus! Obsessively testing: You have experience working with continuous integration environments and test systems including Teamcity and Jenkins Detail oriented: You do not miss crucial details and can identify critical areas that need verification A Team-player: you work well with other team members -- you can decide on next steps that considers all stakeholders while managing the technical implications for the team at large A Creator: you are excited to participate with design and product teams to create the best user experience possible You Will: Create a best-in-class test driver using C++, Objective- C, Java, Lua programming languages for the Roblox Game Engine Work with our continuous integration tools to seamlessly hook in new classes of tests and increase our automated test coverage Automate User Interfaces that are in React and Redux Integrate with Embedded QA to maximize their workflow and ensure that bugs are caught early and fixed quickly Work at warp speed and create coverage for code being released to millions of users at least once every week You'll Love: Excellent medical, dental, and vision coverage A rewarding 401k program Flexible vacation policy Free catered lunches five times a week and several fully stocked kitchens with unlimited snacks Onsite fitness center and fitness program credit Annual Cal Train Go Pass A super-cool Roblox Admin badge for your avatar Rock star status with our community",
+ "jobRequirement": "",
+ "jobIsHighlighted": null,
+ "jobCategoryId": [],
+ "jobIndustryId": [],
+ "duration": null,
+ "jobExternalAppUrl": "https://www.ventureloop.com/ventureloop/api/rapi.php?jobId=NDkwfDExNTkzNTU=",
+ "jobIndustries": [
+  "2497,Entertainment",
+  "209,Ad Tech",
+  "230,Digital Media",
+  "409,Consumer Internet &amp; Media"
+ ],
+ "jobStage": []
+}

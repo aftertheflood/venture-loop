@@ -1,0 +1,25 @@
+{
+ "jobId": "1193935",
+ "jobTitle": "Data Engineer - Insights Squad",
+ "jobCompany": null,
+ "companyWebsite": "www.algolia.com",
+ "companyName": "Algolia",
+ "jobLocations": [
+  "Paris, FR"
+ ],
+ "companyId": 8297,
+ "jobModifiedDate": "2019-07-08 20:11:14",
+ "jobDescription": "Algolia is looking for a software engineer to join the Insights squad. You will be responsible for operating the log processing and analytics pipelines and their related, public facing, APIs. Today this platform handles billions of events, or terabytes of data, per day, a number that is rapidly growing. No two problems are the same because our systems keep evolving and scaling. We expect you to be a resilient problem solver who isn’t afraid to think outside of the box. You will take ownership of complete projects and execute them. The team is composed of engineers with different backgrounds and experience both in the industry and academia. The diversity works in our favor and you should increase it by bringing your experience, your knowledge and your point of view. Thinking differently is a plus, not a minus. We’re transparent with each other and to other teams both about our success and our failures. This way we learn, we accept our weaknesses and continuously strive to improve both personally and professionally.  YOUR ROLE WILL CONSIST OF: Develop, maintain and monitor the analytics, monitoring & log processing pipelines and their APIs Evaluate performance of current and future systems, both software and hardware Participate in design of new systems Work with other teams to identify, troubleshoot, and resolve high impact issues YOU MIGHT BE A FIT IF YOU HAVE: Experience working with large scale datasets Experience designing and operating robust distributed systems Experience with Go or similar language is a plus Working knowledge of relational databases and query authoring ( SQL) Rigor in high code quality, automated testing, and other engineering best practices Proven experience in a very fast-paced and continuously changing environment Ability to make independent decisions and taking ownership for them Full professional English proficiency EU work permit WE' RE LOOKING FOR SOMEONE WHO CAN LIVE OUR VALUES: GRIT - Problem-solving and perseverance capability in an ever-changing and growing environment TRUST - Willingness to trust our co-workers and to take ownership CANDOR - Ability to receive and give constructive feedback. CARE - Genuine care about other team members, our clients and the decisions we make in the company. HUMILITY- Aptitude for learning from others, putting ego aside. BENEFITS: Private Medical Insurance Life and Disability Insurance Business Travel Insurance Relocation support Company Canteen (high standard) Flexible work hours and unlimited time off PERKS: Competitive pay and equity Coaching and sponsorship to participate and speak at leading industry conferences Ongoing professional education opportunities through internal & external workshops, including public speaking, language learning ( English/ French) Fun: we spend time together — team building, socializing and making tools that encourage getting to know teammates across offices and continents Charitable contribution matching Unique referral rewards program: refer a candidate, and we’ll donate to your charity of choice Corporate flats available for the first months of relocation and when you travel to different offices Fully stocked kitchens Team workouts Meals & happy hours",
+ "jobRequirement": "",
+ "jobIsHighlighted": null,
+ "jobCategoryId": [],
+ "jobIndustryId": [],
+ "duration": null,
+ "jobExternalAppUrl": "https://www.ventureloop.com/ventureloop/api/rapi.php?jobId=NDkwfDExOTM5MzU=",
+ "jobIndustries": [
+  "61,Infrastructure",
+  "305,Software and Systems",
+  "1457,Technology"
+ ],
+ "jobStage": []
+}

@@ -1,0 +1,24 @@
+{
+ "jobId": "1209600",
+ "jobTitle": "Data Infrastructure Engineer",
+ "jobCompany": null,
+ "companyWebsite": "www.adyen.com",
+ "companyName": "Adyen",
+ "jobLocations": [
+  "Amsterdam, NL"
+ ],
+ "companyId": 5078,
+ "jobModifiedDate": "2019-07-08 20:02:21",
+ "jobDescription": "This is Adyen Speed is the foundation of our company. We think fast. We work fast. We launch fast. Our merchants’ demands shape our development path, and we never stop until the job is done. We’re creating our own path, with a global team driving sustainable growth. We don’t do hierarchy, egos or boundaries. “ Not possible” is not in our vocabulary — “freedom” is. This is who we are: honest, direct and always bringing an element of fun into our work. If you’re ready to join the power of fast, keep reading. Data Infrastructure Engineer Adyen is looking for full-time Data Infrastructure Engineers (all levels) for its Infrastructure team in Amsterdam. The ideal candidate should have a solid background with designing, scaling and maintaining data infrastructure solutions, learn on the fly, diagnose problems and be used to dealing with a 24/7 environment. You will operate as part of a group of data engineers, developers and data scientists, and work on the core data infrastructure used throughout the company. What you will do Create, maintain and iterate on the current data infrastructure, currently in use at Adyen. Anticipate on growth and look for structural changes required in the big-data offering at Adyen. Work closely with users of the data infrastructure and arrive at pragmatic solutions, in line with standards used throughout the infrastructure group. Who you are Technology: You must be proficient and have real world and hands-on experience with the following technologies: Hadoop ecosystem ( Hive, Yarn, HDFS) with Spark, securing cluster with Ranger and Kerberos, along with automation tools such as Ansible/ Puppet Experience: Building, testing and maintaining data infrastructure for enterprise level data lake solutions in a Linux based production environment. Knowledge: Solid understanding of data lake solutions and related infrastructure components. Mentality: You are a team-player who is open to feedback and have the mind-set to automate and avoid repetitive tasks. Language: You are able to communicate in English. Who we are Adyen is the payments platform of choice for many of the world’s leading companies, providing a modern end-to-end infrastructure connecting directly to Visa, Mastercard, and consumers' globally preferred payment methods. Adyen delivers frictionless payments across online, mobile, and in-store channels. With offices across the world, Adyen serves customers including Facebook, Uber, Spotify, Casper, Bonobos and L' Oreal.",
+ "jobRequirement": "",
+ "jobIsHighlighted": null,
+ "jobCategoryId": [],
+ "jobIndustryId": [],
+ "duration": null,
+ "jobExternalAppUrl": "https://www.ventureloop.com/ventureloop/api/rapi.php?jobId=NDkwfDEyMDk2MDA=",
+ "jobIndustries": [
+  "587,Fintech",
+  "1422,Financial Services"
+ ],
+ "jobStage": []
+}

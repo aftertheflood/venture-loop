@@ -1,0 +1,27 @@
+{
+ "jobId": "1146022",
+ "jobTitle": "Senior Software Architect",
+ "jobCompany": null,
+ "companyWebsite": "www.patreon.com",
+ "companyName": "Patreon",
+ "jobLocations": [
+  "San Francisco, CA, US"
+ ],
+ "companyId": 9667,
+ "jobModifiedDate": "2019-07-10 02:17:47",
+ "jobDescription": "Do you believe that creators should have the ability to get paid for the value they give to their fans? We do, which is why we're building Patreon, a platform that powers membership services for creators with established followings. Patreon strives to provide creators with insight, education, and tools that make it possible to retain creative control while running their creative business, so creators can focus on creating and energizing their fanbases. As our Architect, you will lead and own our architectural decisions across engineering. Our user base has doubled in the last year alone, and we have paid over half a billion dollars directly to creators on our platform. Given how we handle burst payment processing, we're building towards handling over 1k transactions per second, approaching levels of international financial card services. You will be working very closely with the engineering managers and tech leads to scale our unique membership platform to millions of creators and patrons processing billions of dollars. What you will do: System & Technology Architecture Design and oversee implementation of end-to-end integrated systems. Deliver architectural initiatives that drive revenue and improve efficiency inline with business strategy. Maintain in-depth knowledge of the organization's technologies and architectures. Develop and maintain current and planned state architectural blueprints. Develop and maintain an aspirational architectural road map for the enterprise. Communicate architectural decisions, plans, goals and strategies. Provide technical guidance and coaching to engineers Develop architectural metrics and reports for the Engineering Leadership Skills and experience you possess:15+ years of technical leadership and architecture experience in software development with a variety of languages ( Java, Python, React, Java Script, Ruby)6-8+ years’ experience designing and delivering large scale distributed systems (with at least 3-4 years on cloud services) Deep insight into Cloud – IAAS and PAAS ( AWS, Azure, GCP, VMware) Ability to work with all levels within the organization Excellent written and verbal communication skills Good understanding of secure cloud design (across Infrastructure, Platform, Application and Data) Startup Experience preferred Projects you may work on: Scale the Patreon Payments infrastructure from tens to hundreds of millions of transactions per year. Then scale it to billions. Work on creating and architecting a trustworthy, sustainable and delightful membership platform to handle millions of patrons and creators Mentor and guide a group of smart talented senior engineers Elevate and drive the Patreon Engineering brand What you will have the chance to learn: Execution in a way that gets results AND motivates people How to drive the Patreon engineering Brand internally and externally How to create and maintain a healthy Engineering Culture at Patreon Who you'll work with: At Patreon, you'll join a high-performing and highly-empathetic team of people who proudly work on fulfilling our mission of funding the creative class. Our culture of creator-first, thoughtful teammates keeps work creative, stretching, and rewarding. Patreon aspires to be among the tech industry’s most inclusive work environments. Not only is it the right thing to do, but pursuing diversity of perspectives helps us build for our diverse community of creators and patrons. To learn how we're working towards this, please click here. If you identify with a traditionally underrepresented group of individuals in tech, we strongly encourage you to apply! We work hard to maintain a bottom-up decision-making culture. We empower our employees by providing a clear vision and tools to fulfill on it. We believe that hiring smart, thoughtful, people and giving them strong ownership of their work leads to the best results. We encourage you to learn more about how we think about culture at Patreon, to make sure we’re the right place for you. You’ll love working here if: You care about getting artists and creators paid. You believe the best products are built with a human-centered design process. You love to design impactful, well crafted experiences. You work best in a highly collaborative environment. Want to learn more about Patreon? Check out video testimonials, photos, and more on The Muse Check out our reviews on Glassdoor Check to see if you know a Patreon teammate on Linked In Thanks very much for taking the time to learn about the team behind Patreon. If you want to join us changing creator’s lives, we’d love to talk.",
+ "jobRequirement": "",
+ "jobIsHighlighted": null,
+ "jobCategoryId": [],
+ "jobIndustryId": [],
+ "duration": null,
+ "jobExternalAppUrl": "https://www.ventureloop.com/ventureloop/api/rapi.php?jobId=NDUwfDExNDYwMjI=",
+ "jobIndustries": [
+  "1055,X-Factor",
+  "2497,Entertainment",
+  "2673,E-Commerce",
+  "1029,Technology",
+  "542,Consumer Technology"
+ ],
+ "jobStage": []
+}

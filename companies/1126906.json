@@ -1,0 +1,25 @@
+{
+ "jobId": "1126906",
+ "jobTitle": "Software Engineer, Data",
+ "jobCompany": null,
+ "companyWebsite": "bird.co",
+ "companyName": "Bird",
+ "jobLocations": [
+  "Santa Monica, CA, US"
+ ],
+ "companyId": 18952,
+ "jobModifiedDate": "2019-07-08 07:24:52",
+ "jobDescription": "Who is Bird At Bird, we’re on a mission to make cities more livable by reducing traffic and carbon emissions with an affordable, convenient, and eco-friendly transportation option. We planted roots in Los Angeles, California. Now, our fleet of electric scooters are available to riders in cities around the world for short trips or the “last mile” of their journey. In our first year, Bird launched in over 100 cities and provided over 10 million rides. And we’re only just getting started.  Responsibilities Build APIs and design documents Work closely with various business partners (firmware team, UI/ UX) Architecture design Large scale data processing to understand user behavior and help define new product features Requirements Bachelor's degree in Computer Science or in a related technical discipline Preferred Qualifications Experience in Java, Kotlin, JVM based languages ( Scala, Clojure, Groovy, JRuby) SQL experience ( Postgresql is a plus) Distributed Computing experience Excellent understanding of computer science fundamentals, data structures, and algorithms Expertise required in object-oriented design methodology and large scale application development in an object oriented language Understanding of distributed systems and service oriented architecture Large scale data processing experience Functional programming experience a plus Technology we're working with Flink Hadoop Kafka Redis Rabbit MQ a plus Culture at Bird We're an ambitious, smart, and open-minded group. Our employees are passionate about our mission, and eager to complete their work at the highest level. The office itself is up tempo and supportive, because we care about each other. People first, people. Perks up We want people to succeed at Bird, so we give our teams plenty of time off to relax and recharge. We also offer a generous employer-paid healthcare coverage, on-demand doctor visits, childcare support, a pre-tax commuter account for mass transit or parking, a wellness stipend, and more. Bird is the world Bird stands for a culture of inclusion. We celebrate different backgrounds, experiences, and perspectives —encouraging everyone to bring their authentic selves to work.  We have a diverse environment that empowers our team to feel comfortable when they voice their opinions. For these reasons and more Bird is a proud equal employment opportunity employer. We welcome everyone regardless of their race, color, religion, sex, national origin, age, disability, veteran status, or genetics, and we are dedicated to providing an inclusive, open, and diverse work environment. Sound like a place you’d like to work? Sweet. Let’s chat.",
+ "jobRequirement": "",
+ "jobIsHighlighted": null,
+ "jobCategoryId": [],
+ "jobIndustryId": [],
+ "duration": null,
+ "jobExternalAppUrl": "https://www.ventureloop.com/ventureloop/api/rapi.php?jobId=NDUwfDExMjY5MDY=",
+ "jobIndustries": [
+  "2706,Technology",
+  "589,Travel &amp; Leisure",
+  "2739,Technology"
+ ],
+ "jobStage": []
+}

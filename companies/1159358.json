@@ -1,0 +1,26 @@
+{
+ "jobId": "1159358",
+ "jobTitle": "Release Engineer - Engine DevOps",
+ "jobCompany": null,
+ "companyWebsite": "corp.roblox.com",
+ "companyName": "Roblox",
+ "jobLocations": [
+  "San Mateo, CA, US"
+ ],
+ "companyId": 2105,
+ "jobModifiedDate": "2019-07-10 05:34:32",
+ "jobDescription": "Roblox is ushering in the next generation of entertainment, allowing people to imagine, create, and play together in immersive, user-generated worlds. We’re the one and only fastest-growing entertainment platform that lets anyone teach themselves how to code, publish, and monetize any experience imaginable—across any device—reaching millions of players across the globe. The impact that you can have at Roblox is powerful. We’re looking for someone who’s eager to take on a meaningful role in the success of Roblox on a massive scale. Someone who takes play seriously, but also isn’t afraid to have some fun either. Someone who’s ready to take Roblox—and their career—to the next level. In 2018, we were honored to be recognized as a Certified Great Place to Work®. We’ve fostered a company culture that empowers people to do the most defining work of their career in an environment that’s made up of the most passionate, team-oriented, visionary, crazy-smart people you’ll ever meet. Join the Roblox team where play rules and the possibilities are endless. As a Release Engineer, you will develop, optimize and maintain mission critical build tools for the Roblox Game Engine Team. Using the tools that you and your team develop and manage, you will support all phases of the software life-cycle - including multi-platform build systems, continuous integration, crash reporting, code coverage, and analysis tools, and test environments. If you have a passion for delivering productivity and efficiency with state of the art development tools, you’ll be right at home within our highly-skilled and rapidly growing Client and Game Engine Development Team. You Are: Experienced in developing and maintaining build tools and processes for engineering teams of 15 or more. You also have at least 5 years of professional experience backed by a Bachelor or Masters degree in Computer Science or related field A strong coder: your background using programming languages such as C++, C#, Node.js, and Java, as well as scripting languages including Python, Bash, and Power Shell, allow you to develop robust, scalable and efficient tools Proficient with version control ( Git preferred), continuous integration, and multi-platform development environments Familiar with static analysis and code coverage tools A strong communicator Dedicated to optimizing full cycle engineering development pipelines Versatile: you’re a jack of all trades, master of several; you can easily adapt to any situation when the need arises You Will: Design and develop automation tools for our production release process - delivering game play to millions of concurrent players Maintain and improve code analysis, build and release tools Integrate code analysis and quality metrics tools Customize our continuous integration system to work with a growing team Improve integration between version control, build and incident tracking tools Collaborate with the team to improve overall build process reliability and scalability Upgrade and maintain current production deployment systems Provide ongoing support for the code development life-cycle You'll Love: Excellent medical, dental, and vision coverage A rewarding 401k program Flexible vacation policy Free catered lunches five times a week and several fully stocked kitchens with unlimited snacks Onsite fitness center and fitness program credit Annual Cal Train Go Pass A Roblox Admin badge for your avatar",
+ "jobRequirement": "",
+ "jobIsHighlighted": null,
+ "jobCategoryId": [],
+ "jobIndustryId": [],
+ "duration": null,
+ "jobExternalAppUrl": "https://www.ventureloop.com/ventureloop/api/rapi.php?jobId=NDkwfDExNTkzNTg=",
+ "jobIndustries": [
+  "2497,Entertainment",
+  "209,Ad Tech",
+  "230,Digital Media",
+  "409,Consumer Internet &amp; Media"
+ ],
+ "jobStage": []
+}

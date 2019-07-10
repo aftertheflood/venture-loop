@@ -1,0 +1,24 @@
+{
+ "jobId": "1089834",
+ "jobTitle": "Senior Software Engineer",
+ "jobCompany": null,
+ "companyWebsite": "www.notonthehighstreet.com",
+ "companyName": "notonthehighstreet.com",
+ "jobLocations": [
+  "Richmond, GB",
+  "London, GB"
+ ],
+ "companyId": 3877,
+ "jobModifiedDate": "2019-07-10 02:21:03",
+ "jobDescription": "We are notonthehighstreet. Home to over 5000 of the UK’s best small creative businesses, we have been changing the online retail landscape since 2006. Whether you’re working with our Partners to help grow their business, or behind the scenes developing code, we are continuously innovating & working on some really cool stuff all at the same time. And the best bit? We’re making a difference to our Partners’ lives as we do it. We’re about to embark on an ambitious new phase of development to advance our technology, including platform re-architecture to serverless microservices, rewriting the front-end and introducing new big data & machine learning platforms.  It’s an exciting time and we need to strengthen and grow our teams! Our future stack will be predominantly Javascript based with React on the front end, Graph QL and/or Node.js for our services and APIs, running on AWS functions. Our native apps and data will of course use few other different technologies. As Senior Engineer you will join one of our engineering teams building a new set of micro services and front end for Not on The High Street customers, partners and internal users.  Some of the things you'll be doing Writing, testing and maintaining quality code Working with a small, empowered cross-functional team to deliver business value Making a significant contribution to defining, maintaining and improving our architecture and best practices Designing and building systems which are performant and secure Providing support for other team members through code review, pairing and mentoring Be part of our success and make a difference Some key skills + experience you’ll need You will have fresh hands-on experience as a Senior or Mid level or junior engineer, ideally in an Agile e Commerce/ Digital environment Javascript, front end frameworks, preferably React including server rendered React Would be great if you had experience with Node.js and Graph QLCloud Technologies (preferably AWS) Experience with event driven architectures Keen software engineering approach Desire to work closely with the business, learn new things and teach others Ability to take ownership of a project or issue, analyse it and solve problems not faced before TDD and functional programming Experience with agile development methodologies Champion of modern development practices and tools, e.g. Continuous Delivery with Jenkins, Source Control with Git, AWS Infrastructure etc Previous e-commerce experience would also be beneficial Our current stack includes Ruby, Java, React, Node.js, Elastic Search, Jenkins, Docker, and AWS and so experience with any (or many!) of those would be highly advantageous Our perks It’s important to us that our people are well looked after, which is why we offer everyone BUPA healthcare, life insurance and a pension plan. Because having a break is important for your physical and mental wellbeing, our holiday allowance is 25 days (plus bank holidays) AND your entitlement will increase an extra day for every 2 years you spend with us. Add in our in-office massages, yoga sessions or the abundance of free fruit, you can see that we want our people to feel good inside and out. Our advice though? Be quick if you want a banana… Apply to join #teamnoths We’d love to hear about what you can do for us and how you can add value to our people and our business - reach out and apply today!",
+ "jobRequirement": "",
+ "jobIsHighlighted": null,
+ "jobCategoryId": [],
+ "jobIndustryId": [],
+ "duration": null,
+ "jobExternalAppUrl": "https://www.ventureloop.com/ventureloop/api/rapi.php?jobId=NDkwfDEwODk4MzQ=",
+ "jobIndustries": [
+  "1453,Fashion &amp; Luxury"
+ ],
+ "jobStage": []
+}
