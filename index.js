@@ -47,7 +47,7 @@ function rateLimitedBulkJSONFetch(urls, maxConcurrent=1, processor = d=>console.
       fetcher(urls.pop(), processor);
       tryFetch();
     }else{
-      console.log('waiting...', active);
+      console.log(`waiting for completion of ${active} active transfers, the queue is ${urls.length} items long.` );
       setTimeout(tryFetch, timeout);
       if(urls.length == 0){
         process.exit(0);
