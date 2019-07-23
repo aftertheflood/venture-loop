@@ -88,3 +88,8 @@ typings/
 .dynamodb/
 
 companies
+jobs/5.json
+jobs/4.json
+jobs/3.json
+jobs/2.json
+jobs/1.json

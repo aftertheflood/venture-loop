@@ -4,7 +4,7 @@ const cheerio = require('cheerio');
 const fetch = require('node-fetch');
 const endPoints = require('./endpoints')(process.env.TOKEN);
 
-const existingFiles = fs.readdirSync('./companies','utf-8')
+const existingFiles = fs.readdirSync('./data','utf-8')
   .filter(d=>(d.indexOf('.json') > 0))
   .map(d=>d.split('.json')[0]);
 
@@ -35,7 +35,7 @@ function cleanHTMLText(t){ //add spaces where needed, where tags would have prov
 function saveCompany(json){
   const description = cleanHTMLText(cheerio.load(json.data.jobDescription).text());
   json.data.jobDescription = description;
-  fs.writeFileSync(`./companies/${json.data.jobId}.json`,JSON.stringify(json.data, null, ' '));
+  fs.writeFileSync(`./data/${json.data.jobId}.json`,JSON.stringify(json.data, null, ' '));
   console.log(`saved ${json.data.jobId}`);
 }
 
