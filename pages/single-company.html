@@ -1,0 +1,129 @@
+<html>
+<head>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<style>
+body{
+    color: white;
+    background-color: black;
+    font-family:sans-serif;
+}
+text{
+    fill:#777;
+}
+
+.axis text{
+    fill:#444;
+    font-weight:bold;
+    font-size:25px;
+}
+
+</style>
+</head>
+<body>
+<h1>JOBS</h1>
+<div class="viz"><svg></svg></div>
+</body>
+
+<script>
+const width = 1000;
+const height = 800;
+const margin = {top:20, left:20, bottom:0, right:10};
+
+const dateScale = d3.scaleTime()
+    .domain([new Date(2007, 0, 1), new Date(2018, 0, 1)])
+    .range([margin.left, (width - (margin.left + margin.right))]);
+
+const jobcats = [1,2,3,4,8,10,11,12,13,15,18,19,20,21,27,28,30,31,38,39,40,41,42,44,45,46,47];
+const colorsA = ['#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', '#911eb4', '#46f0f0', '#f032e6', '#bcf60c', '#fabebe', '#008080', '#e6beff', '#9a6324', '#fffac8', '#800000', '#aaffc3', '#808000', '#ffd8b1', '#000075', '#808080', '#ffffff']
+const colorsB = d3.range(0, 1, 1/jobcats.length)
+    .map(d=>d3.interpolateCool(d));
+
+
+
+function dotPlot(data){
+    d3.select('h1').text(data[0]['Company Name']);
+
+    d3.selectAll('.viz svg')
+        .attr('width',width)
+        .attr('height',height)
+        .call((svg, dataSet)=>{
+        console.log('dataset',dataSet, d3.extent(dataSet, d=>d['Posted Date']));
+        dateScale.domain(d3.extent(dataSet, d=>d['Posted Date']));
+
+        const categories = getUniqueValues(dataSet, ['Job Category Id']);
+        const colorScale = d3.scaleOrdinal()
+            .range( colorsA )
+            .domain( categories );
+
+        // split by month posted
+        const months = Object.entries(splitArrayOn(dataSet,'Month Posted'));
+        svg.selectAll('g.month')
+            .data(months)
+            .enter()
+            .append('g')
+                .attr('class','month')
+                .attr('transform',d=>{
+                    const fragments = d[0].split('-');
+                    const date = new Date(Number(fragments[0]), Number(fragments[1])-1, 1);
+                    return `translate(${dateScale(date)}, ${margin.top})`;
+                })
+            .each(function(jobs){
+                const monthGroup = d3.select(this);
+                monthGroup.selectAll('circle')
+                    .data(jobs[1].sort((a,b)=>(a['Job Category Id']-b['Job Category Id'])))
+                    .enter()
+                    .append('circle')
+                        .attr('cx', (d,i)=>0)
+                        .attr('cy', (d,i)=>i*10)
+                        .attr('r', 3)
+                        .attr('fill', d=>colorScale(d['Job Category Id']));
+            })    
+        console.log(months);
+        }, data);
+}
+
+</script>
+
+<script>
+
+function getUniqueValues(array, property){
+    return Object.keys(array.reduce((acc, current)=>{
+        acc[current[property]]=true;
+        return acc
+    },{}));
+}
+
+function splitArrayOn(array, property){
+    const splitted = array.reduce((dict, current) => {
+        if(current == undefined) return dict;
+        if(!dict[current[property]]){
+            dict[current[property]] = [];
+        }
+        dict[current[property]].push(current);
+        return dict;
+    }, {});
+    return splitted;
+}
+
+d3.tsv('/index-data/index-data.tsv',(row)=>{
+
+    const locationelelments = row['Job Locations'].split(',')
+
+    row['Posted Date'] = new Date(row['Posted Date']);
+    row['Country'] = locationelelments[locationelelments.length-1];
+    row['Archived Date'] = new Date(row['Archived Date'])
+    row['Days Live'] = Math.floor((row['Archived Date'].getTime() - row['Posted Date'].getTime())/(1000*60*60*24));
+    row['Month Posted'] = `${row['Posted Date'].getFullYear()}-${row['Posted Date'].getMonth()+1}`
+    return row;
+}).then((data)=>{
+    let company = window.location.hash.substr(1);
+    const companies = splitArrayOn(data, 'Company Name')
+    if(!company || !companies[company]){
+        company = 'Etsy';
+    }
+    dotPlot( companies[company] );
+});
+
+
+</script>
+</html>
