@@ -26,8 +26,8 @@ text{
 
 <script>
 const width = 1000;
-const height = 800;
-const margin = {top:20, left:20, bottom:0, right:10};
+const height = 500;
+const margin = {top:60, left:20, bottom:20, right:10};
 
 const dateScale = d3.scaleTime()
     .domain([new Date(2007, 0, 1), new Date(2018, 0, 1)])
@@ -41,22 +41,46 @@ const colorsB = d3.range(0, 1, 1/jobcats.length)
 
 
 function dotPlot(data){
-    d3.select('h1').text(data[0]['Company Name']);
+    d3.select('h1').text(`Job postings for ${data[0]['Company Name']}`);
 
     d3.selectAll('.viz svg')
         .attr('width',width)
         .attr('height',height)
         .call((svg, dataSet)=>{
-        console.log('dataset',dataSet, d3.extent(dataSet, d=>d['Posted Date']));
+
         dateScale.domain(d3.extent(dataSet, d=>d['Posted Date']));
 
         const categories = getUniqueValues(dataSet, ['Job Category Id']);
         const colorScale = d3.scaleOrdinal()
-            .range( colorsA )
+            .range( colorsB )
             .domain( categories );
 
         // split by month posted
         const months = Object.entries(splitArrayOn(dataSet,'Month Posted'));
+
+        const stackScale = d3.scaleLinear()
+            .domain([0,d3.max(months, d=>d[1].length)])
+            .range([0,height-(margin.top+margin.bottom)]);
+
+
+        svg.append('g')
+            .attr('class','axis')
+            .selectAll('line')
+            .data(d3.range(2007,2019,1).map(d=>new Date(d,0,1)))
+            .enter()
+            .call(parent=>{
+                parent.append('line')
+                    .attr('x1', d=>dateScale(d))
+                    .attr('x2', d=>dateScale(d))
+                    .attr('y1', 0)
+                    .attr('y2', height-margin.bottom)
+                    .attr('stroke', '#777');
+                    
+                parent.append('text')
+                        .text(d=>d.getFullYear())
+                        .attr('transform',d=>`translate(${dateScale(d)}, 0) rotate(90)`)
+            });
+
         svg.selectAll('g.month')
             .data(months)
             .enter()
@@ -65,7 +89,7 @@ function dotPlot(data){
                 .attr('transform',d=>{
                     const fragments = d[0].split('-');
                     const date = new Date(Number(fragments[0]), Number(fragments[1])-1, 1);
-                    return `translate(${dateScale(date)}, ${margin.top})`;
+                    return `translate(0, ${margin.top})`;
                 })
             .each(function(jobs){
                 const monthGroup = d3.select(this);
@@ -73,12 +97,12 @@ function dotPlot(data){
                     .data(jobs[1].sort((a,b)=>(a['Job Category Id']-b['Job Category Id'])))
                     .enter()
                     .append('circle')
-                        .attr('cx', (d,i)=>0)
-                        .attr('cy', (d,i)=>i*10)
+                        .attr('cx', (d,i)=>dateScale(d['Posted Date']))
+                        .attr('cy', (d,i)=>(height-(margin.top+margin.bottom)) - stackScale(i))
                         .attr('r', 3)
                         .attr('fill', d=>colorScale(d['Job Category Id']));
+                    
             })    
-        console.log(months);
         }, data);
 }
 
@@ -119,7 +143,7 @@ d3.tsv('/index-data/index-data.tsv',(row)=>{
     let company = window.location.hash.substr(1);
     const companies = splitArrayOn(data, 'Company Name')
     if(!company || !companies[company]){
-        company = 'Etsy';
+        company = 'Funding Circle';
     }
     dotPlot( companies[company] );
 });

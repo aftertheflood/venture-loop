@@ -125,10 +125,15 @@ d3.tsv('/index-data/index-data.tsv',(row)=>{
     row['Month Posted'] = `${row['Posted Date'].getFullYear()}-${row['Posted Date'].getMonth()+1}`
     return row;
 }).then((data)=>{
-    dotPlots(Object.entries(splitArrayOn(data, 'Company Name'))
-       .sort((b,a)=>{
+    dotPlots(
+        Object.entries(splitArrayOn(data, 'Company Name'))
+        .sort((b,a)=>{
             return a[1].length - b[1].length;
-        }))
+        })
+        .filter((d,i)=>{
+            return i<10;
+        })
+        )
 });
 
 // dotPlots(Object.entries({data}))
